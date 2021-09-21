@@ -2,4 +2,4 @@
 
 def topFiveMovies(a, b, c, d, e):
     return(a, b, c, d, e)
-print("Harry Potter", "One Direction Documentary", "Star Wars", "Legend of Sleepy Hallow", "Nacho Libre")
+topFiveMovies("Harry Potter", "One Direction Documentary", "Star Wars", "Legend of Sleepy Hallow", "Nacho Libre")
